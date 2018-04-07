@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/base/BaseFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/base/BasePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/fragment/ContentFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/fragment/LeftMenuFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/home/NewsCenterPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/news/utils/HMApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fxj/slidingtest01/MainActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
