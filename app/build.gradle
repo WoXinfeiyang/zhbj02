@@ -5,7 +5,7 @@ android {
     defaultConfig {
         applicationId "com.fxj.zhbj02"
         minSdkVersion 19
-        targetSdkVersion 19
+        targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -16,7 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '26.0.2'
 }
 
 dependencies {
@@ -27,6 +27,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
-    implementation project(':slidingmenu')
-    implementation project(':viewpagerindicator')
+    compile project(':slidingmenu')
+    compile project(':viewpagerindicator')
 }

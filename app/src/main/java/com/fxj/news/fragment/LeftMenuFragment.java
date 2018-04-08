@@ -41,7 +41,7 @@ public class LeftMenuFragment extends BaseFragment
 
 	private int menuType = 0;
 	
-	/**策划菜单ListView对象当前被选中的位置，初始化为0*/
+	/**侧滑菜单ListView对象当前被选中的位置，初始化为0*/
 	public static int leftMenuCurrentPosition = 0;
 	
 	/**适配侧滑菜单ListView对象的Adapter*/
