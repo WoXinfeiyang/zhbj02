@@ -51,13 +51,6 @@ public class NewsCenterPage extends BasePage{
 		setSlidingMenuEnable(true);/*打开侧滑菜单*/
 		initTitleBar(view);
 		return view;
-		
-//		/*TextView构造函数中传入来自BasePage的Context上下文对象ct,用于构造一个TextView对象*/
-//		TextView textView=new TextView(ct);
-//		textView.setText("我是新闻中心");
-//		return textView;
-		
-		
 	}
 
 	@Override
